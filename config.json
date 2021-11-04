@@ -3,7 +3,7 @@
 
 {
 	"ip":".1NetJavaWars.aternos.me",
-	"port": "62253",
+	"port": "25565",
 	"name": "Locker",
 	"auto-night-skip":"false"
 }
